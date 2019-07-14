@@ -11,6 +11,10 @@
 		"baseUrl": "./src",
 		"rootDir": "./src",
 
+		"paths":{
+			"metaphora": ["metaphora"]
+		},
+
 		"module": "commonjs",
 		"moduleResolution": "node",
 
